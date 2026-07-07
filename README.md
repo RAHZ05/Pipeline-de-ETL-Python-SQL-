@@ -39,4 +39,18 @@ Transform: Limpa e padroniza as informações (limpeza de nomes, datas, valores 
 
 Load: Insere os dados processados em um banco SQLite.
 
+
+
+Dados Bagunçados |
+<img width="287" height="170" alt="image" src="https://github.com/user-attachments/assets/b01428c9-8a29-4533-a1f7-8055f1c99d27" />
+
+Codigo |
 <img width="1750" height="782" alt="carbon" src="https://github.com/user-attachments/assets/d6ccc428-7f38-4f44-a86d-59a7d82e1ee2" />
+
+Terminal |
+<img width="594" height="131" alt="image" src="https://github.com/user-attachments/assets/3428c59b-3318-4e40-8de6-5b7c7a3ffbcf" />
+
+Sql |
+<img width="1120" height="599" alt="image" src="https://github.com/user-attachments/assets/a02c6d1a-0ff8-4fd2-84b8-5617ab40972f" />
+
+
