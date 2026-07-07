@@ -42,6 +42,7 @@ Load: Insere os dados processados em um banco SQLite.
 
 
 Dados Bagunçados |
+
 <img width="287" height="170" alt="image" src="https://github.com/user-attachments/assets/b01428c9-8a29-4533-a1f7-8055f1c99d27" />
 
 Codigo |
