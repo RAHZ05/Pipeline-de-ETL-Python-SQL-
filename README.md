@@ -48,6 +48,9 @@ Dados Bagunçados |
 Codigo |
 <img width="1750" height="782" alt="carbon" src="https://github.com/user-attachments/assets/d6ccc428-7f38-4f44-a86d-59a7d82e1ee2" />
 
+<img width="2020" height="930" alt="carbon (1)" src="https://github.com/user-attachments/assets/55f87bc1-1abc-42ec-a6e4-4cf1625651ea" />
+
+
 Terminal |
 
 <img width="594" height="131" alt="image" src="https://github.com/user-attachments/assets/3428c59b-3318-4e40-8de6-5b7c7a3ffbcf" />
